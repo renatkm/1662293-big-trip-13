@@ -1,7 +1,7 @@
 # Проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Renat Kutliyarov](https://up.htmlacademy.ru/ecmascript/13/user/1662293).
-* Наставник: `Неизвестно`.
+* Наставник: `Артём Матковский`.
 
 ---
 
